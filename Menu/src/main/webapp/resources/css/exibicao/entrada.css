@@ -1,0 +1,40 @@
+#corpo {
+	position: relative;
+	width: 455px;
+	height: 375px;
+	margin: 0 auto;
+	padding: 0 auto;
+	
+}
+
+tr {
+	display: block;
+	width: 455px;
+	height: 30px;
+	margin: 1px 0 1px 0;;
+	padding: 0;
+	border: 2px solid gray;
+	border-radius: 6px;
+	background-color: gray;
+	
+}
+
+tr th {
+	font-size: 18px;
+}
+
+tr td {
+	font-size: 18px;
+	color: white;
+}
+
+tr:hover {
+	transition: 0.5s;
+	-webkit-box-shadow: 1px 1px 2px #fff;
+	
+}
+
+tr td:hover {
+	transition: 0.5;
+	color: black;
+}

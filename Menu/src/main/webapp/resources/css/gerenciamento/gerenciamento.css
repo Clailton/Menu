@@ -1,0 +1,49 @@
+
+
+#corpo {
+	position: relative;
+	width: 455px;
+	height: 375px;
+	margin: 0 auto;
+	padding: 0 auto;
+	
+	
+	
+}
+table {
+	margin: 0;
+}
+
+tfoot tr {
+	display: block;
+	width: 435px;
+	height: 30px;
+	margin: 1px 0 1px 0;;
+	padding: 0;
+	border: 2px solid gray;
+	border-radius: 6px;
+	background-color: gray;
+	
+}
+
+tbody {
+	display:block;
+	width: 435px;
+	height: 290px;
+	border: 1px solid gray;
+}
+tbody td{
+	color: red;
+}
+
+thead tr {
+	display: block;
+	width: 435px;
+	height: 30px;
+	margin: 1px 0 1px 0;;
+	padding: 0;
+	border: 2px solid gray;
+	border-radius: 6px;
+	background-color: gray;
+	
+}
