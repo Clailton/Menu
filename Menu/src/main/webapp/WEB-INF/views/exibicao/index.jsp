@@ -17,9 +17,9 @@
 			<ul>
 				<a href="entradas" target="frame"><li>Entradas</li></a>
 				<a href="especialidades" target="frame"><li>Especialidades</li></a>
-				<a href="bebidas.html" target="frame"><li>Bebidas</li></a>
-				<a href="gerenciamento.html" target="frame"><li>Conta</li></a>
-				<a href="promocoes.html" target="frame"><li>Promoções</li></a>
+				<a href="bebidas" target="frame"><li>Bebidas</li></a>
+				<a href="conta" target="frame"><li>Conta</li></a>
+				<a href="promocoes" target="frame"><li>Promoções</li></a>
 				<a href="#"><li>Comandas</li></a>
 				<a href="#"><li>Roda de mesa</li></a>
 				<a href="#"><li>Garçon</li></a>

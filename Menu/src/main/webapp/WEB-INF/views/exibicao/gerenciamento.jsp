@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="gerenciamento.css"/>
+<link rel="stylesheet" type="text/css" href="resources/css/gerenciamento/gerenciamento.css"/>
 </head>
 
 <body>

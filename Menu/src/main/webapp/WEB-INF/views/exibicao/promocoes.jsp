@@ -1,6 +1,6 @@
 <html>
 <head>
-<link rel="stylesheet" type="text/css" href="entrada.css"/>
+<link rel="stylesheet" type="text/css" href="resources/css/exibicao/entrada.css"/>
 </head>
 
 <body>
