@@ -8,13 +8,13 @@
 
 <body>
   <div id="slideShowImages">
-    <img src="branco.jpg"/>
-    <img src="page.jpg" alt="Slide 1" />
-    <img src="promocao1.jpg" alt="Slide 2" />
-    <img src="promocao3.jpg" alt="Slide 4" />
+    <img src="resources/imagens/branco.jpg"/>
+    <img src="resources/imagens/page.jpg" alt="Slide 1" />
+    <img src="resources/imagens/promocao1.jpg" alt="Slide 2" />
+    <img src="resources/imagens/promocao3.jpg" alt="Slide 4" />
   </div>  
   
-  <script src="index.js"></script>
+  <script src="resources/javascript/index.js"></script>
 </body>
 
 </html>
