@@ -1,4 +1,4 @@
-package br.com.empresa;
+package br.com.empresa.controller;
 
 import java.text.DateFormat;
 import java.util.Date;
