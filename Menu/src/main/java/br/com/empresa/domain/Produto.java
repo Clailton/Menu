@@ -1,9 +1,20 @@
 package br.com.empresa.domain;
 
+import javax.persistence.Column;
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.Id;
+import javax.persistence.Table;
 
+@Entity
+@Table(name="PRODUTO")
 public class Produto {
 	
+	@Id
+	@GeneratedValue
+	@Column(name="id_produto")
 	private int id;
+
 	private String descricao;
 	private float preco;
 	private Object imagem;
